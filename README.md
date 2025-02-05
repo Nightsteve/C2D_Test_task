@@ -5,11 +5,11 @@
 
 ## Установка
 1. Клонируйте репозиторий:
-   git clone https://github.com/Nightsteve/C2D_Test_task.git
+   git clone https://github.com/(ВашЛогин)/C2D_Test_task.git
 2. Установите зависимости
    pip install -r requirements.txt
 3. Задайте переменную окружения:
-   export CHAT2DESK_TOKEN="be4f36334eb75a9361446142fd9969"
+   export CHAT2DESK_TOKEN="ТокенChat2Desk"
 4. Запустите сервер:
    python app.py
 
