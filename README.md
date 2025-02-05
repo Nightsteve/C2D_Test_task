@@ -5,7 +5,7 @@
 
 ## Установка
 1. Клонируйте репозиторий:
-   git clone https://github.com/(ВашЛогин)/C2D_Test_task.git
+   git clone https://github.com/nightsteve/C2D_Test_task.git
 2. Установите зависимости
    pip install -r requirements.txt
 3. Задайте переменную окружения:
