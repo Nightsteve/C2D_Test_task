@@ -16,6 +16,7 @@
 Использование:
 
 Вебхук для событий: POST /webhook/event
+
 Вебхук для диалогов: POST /webhook/dialog-open
 
 Схема алгоритмов:
